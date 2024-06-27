@@ -1,0 +1,62 @@
+[
+  {
+    "title":"C Lang",
+    "imageSrc":"skills/c.png"
+  },
+  {
+    "title":"Java",
+    "imageSrc":"skills/java.png"
+  },
+  {
+    "title":"Python",
+    "imageSrc":"skills/python.png"
+  },
+  {
+    "title":"DSA",
+    "imageSrc":"skills/dsa.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title":"Firebase",
+    "imageSrc":"skills/firebase.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "LeetCode 900+",
+    "imageSrc": "skills/leet.png"
+  },
+  {
+    "title": "Geeks For Geeks 200+",
+    "imageSrc": "skills/geeks.png"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "skills/machine.jpeg"
+  },
+  {
+    "title": "Kotlin-App Development",
+    "imageSrc": "skills/kotlin.jpeg"
+  }
+]
