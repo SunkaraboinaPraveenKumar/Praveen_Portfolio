@@ -42,9 +42,14 @@ const Projects = () => {
                     {/* <a href={data.demo} className="btn btn-primary mx-3">
                       Demo
                     </a> */}
-                    <a href={data.source} className="btn btn-warning">
-                      Source Code
-                    </a>
+                    <div className="d-flex align-items-center justify-content-between">
+                      <a href={data.source} className="btn btn-warning">
+                        Source Code
+                      </a>
+                      <a href={data.deploy} className="btn btn-primary">
+                        Deployed Link
+                      </a>
+                    </div>
                   </div>
                 </div>
               </div>

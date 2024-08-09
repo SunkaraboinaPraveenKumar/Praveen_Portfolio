@@ -5,7 +5,8 @@
     "imageSrc": "https://th.bing.com/th/id/OIP.8OcdOwRWX21G0Yl8wVna9QHaE9?w=286&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7",
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/ReactEcommerce"
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AdvancedEcommerce",
+    "deploy":"https://advanced-ecommerce-opws.vercel.app/"
   },
   {
     "key": 2,
@@ -13,55 +14,62 @@
     "imageSrc": "https://th.bing.com/th/id/OIP.cLKj7HEBCCD4mD6pc3HajgHaHa?pid=ImgDet&w=474&h=474&rs=1",
     "description": "This is a project made with complete React js and FireBase and Node JS",
     "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/SocialMedia_React_App"
+    "source": "https://github.com/SunkaraboinaPraveenKumar/SocialMedia_React_App",
+    "deploy":"https://social-media-react-app-mu.vercel.app/"
   },
   {
     "key": 3,
-    "title": "React 3-D Website",
-    "imageSrc": "https://th.bing.com/th/id/OIP.WqDreNz92-NWSDyoU6y1dwHaEj?w=277&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
-    "description": "This is a project made with complete React js.",
+    "title": "Python Chat Bot",
+    "imageSrc": "https://th.bing.com/th/id/OIP.BCrjVezCUprUYBsXZkYSvQHaEK?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with Python and Deployed with Streamlit",
     "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/GPT3Website-React"
+    "source": "https://github.com/SunkaraboinaPraveenKumar/First_ChatBot",
+    "deploy":"https://firstchatbot-4utnvnkfr3hotxrxc2erhg.streamlit.app/"
   },
   {
     "key": 4,
-    "title": "Coffee Store Website",
-    "imageSrc": "https://th.bing.com/th/id/OIP.NutZKB1AAQ3bIshKzEjAuAHaEl?w=271&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
-    "description": "This is a project made with complete HTML and JavaScript",
+    "title": "MERN CHAT BOT - Front End",
+    "imageSrc": "https://i.ytimg.com/vi/jeDnHARmW34/maxresdefault.jpg",
+    "description": "This is a project made with complete React js and Material UI",
     "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/Coffee--Store-Website"
+    "source": "https://github.com/SunkaraboinaPraveenKumar/MENR_CHAT_FROnt",
+    "deploy":"https://menr-chat-fr-ont.vercel.app/"
   },
   {
     "key": 5,
-    "title": "Shopping Cart",
-    "imageSrc": "https://th.bing.com/th/id/OIP.sxkfw6mN4C0gaaezhLXTzgHaEL?w=312&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
-    "description": "This is a project made with complete JavaScript, HTML, CSS",
+    "title": "MERN CHAT BOT - Back End",
+    "imageSrc": "https://forum.devtalk.com/uploads/default/original/1X/e4b8dbc83dbc1ab2eaaf0a44f78553bdd3586877.jpeg",
+    "description": "This is a project made with complete Node Js and Gemini API Responses",
     "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/ShoppingCart-JS"
+    "source": "https://github.com/SunkaraboinaPraveenKumar/MERN_CHAT_BACKEND",
+    "deploy":"https://mern-chat-backend-5.onrender.com"
   },
   {
     "key": 6,
     "title": "Machine Learning projects",
     "imageSrc": "https://th.bing.com/th/id/OIP.vo3M_xHubdm9j47KWO3D1AHaEK?rs=1&pid=ImgDetMain",
-    "description": "This is a project made with complete JavaScript, HTML, CSS",
+    "description": "This is a project made with complete Python,Google Colab",
     "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/Machine_Learning_Projects"
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Machine_Learning_Projects",
+    "deploy":"https://firstchatbot-4utnvnkfr3hotxrxc2erhg.streamlit.app/"
   },
   {
     "key": 7,
-    "title": "Kotlin-Finanace_Expense_Tracker",
-    "imageSrc": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210707194050/A-Complete-Guide-to-Learn-Kotlin-for-Android-App-Development.png",
-    "description": "This is a project made with complete Kotlin,Fire Base",
-    "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/Expense_Tracker_Paas"
-  },
-  {
-    "key": 8,
     "title": "Self Driving Car",
     "imageSrc": "https://th.bing.com/th/id/OIP.jg0qtzqwSZUP9ndFZAz4-QHaE8?rs=1&pid=ImgDetMain",
     "description": "This is a project made with complete JavaScript Neural Networks",
     "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/Self-Driving-Car"
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Self-Driving-Car",
+    "deploy":"https://self-driving-car-rouge.vercel.app/"
+  },
+  {
+    "key": 8,
+    "title": "Kotlin-Finanace_Expense_Tracker",
+    "imageSrc": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210707194050/A-Complete-Guide-to-Learn-Kotlin-for-Android-App-Development.png",
+    "description": "This is a project made with complete Kotlin,Fire Base",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Expense_Tracker_Paas",
+    "deploy":""
   },
   {
     "key": 9,
@@ -69,7 +77,8 @@
     "imageSrc": "https://th.bing.com/th/id/OIP.6e8LMdXKveiMKJRdSe4SQwHaE8?rs=1&pid=ImgDetMain",
     "description": "This is a project made with complete React JS",
     "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-bookStore-fronend"
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-bookStore-fronend",
+    "deploy":"https://mern-book-store-fronend.vercel.app/"
   },
   {
     "key": 10,
@@ -77,7 +86,43 @@
     "imageSrc": "https://static.vecteezy.com/system/resources/previews/012/044/771/large_2x/illustration-of-book-shop-showcase-with-lots-of-books-with-bench-and-little-bookcase-outside-book-shop-exterior-in-flat-style-vector.jpg",
     "description": "This is a project made with complete Node JS,Express,MongoDB",
     "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-Book-Store-BackEnd"
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-Book-Store-BackEnd",
+    "deploy":"https://mern-book-store-backend-1.onrender.com"
+  },
+  {
+    "key": 11,
+    "title": "React 3-D Website",
+    "imageSrc": "https://th.bing.com/th/id/OIP.WqDreNz92-NWSDyoU6y1dwHaEj?w=277&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/GPT3Website-React",
+    "deploy":"https://coffee-store-website-tjhn.vercel.app/"
+  },
+  {
+    "key": 12,
+    "title": "Coffee Store Website",
+    "imageSrc": "https://th.bing.com/th/id/OIP.NutZKB1AAQ3bIshKzEjAuAHaEl?w=271&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+    "description": "This is a project made with complete HTML and JavaScript",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Coffee--Store-Website",
+    "deploy":"https://coffee-store-website-tjhn.vercel.app/"
+  },
+  {
+    "key": 13,
+    "title": "Shortest Path Dijkstras",
+    "imageSrc": "https://i.ytimg.com/vi/jaPSY96Zf0c/maxresdefault.jpg",
+    "description": "This is a project made with complete JavaScript, HTML, CSS",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Dijktras_Shortest_Path_Vis_JS",
+    "deploy":"https://dijktras-shortest-path-vis-js.vercel.app/"
+  },
+  {
+    "key": 14,
+    "title": "Huffmann Decoding & Encoding",
+    "imageSrc": "https://static.wixstatic.com/media/db1234_78f1a746e7ce45ca9e08fe4b29e4facc~mv2.jpg/v1/fill/w_980,h_822,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/db1234_78f1a746e7ce45ca9e08fe4b29e4facc~mv2.jpg",
+    "description": "This is a project made with complete JavaScript, HTML, CSS",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Huffman_Decoding_Encoding",
+    "deploy":"https://huffman-decoding-encoding.vercel.app/"
   }
-
 ]
