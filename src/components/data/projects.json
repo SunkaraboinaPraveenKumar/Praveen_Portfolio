@@ -124,5 +124,23 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Huffman_Decoding_Encoding",
     "deploy":"https://huffman-decoding-encoding.vercel.app/"
+  },
+  {
+    "key": 15,
+    "title": "Text Summarizer",
+    "imageSrc": "https://www.scrapehero.com/wp/wp-content/uploads/2021/05/Text-Summarization-NLP-744x431.jpg",
+    "description": "This is a project made with complete Python, Flask and NLP",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Summarization_NLP",
+    "deploy":"https://summarization-nlp-1.onrender.com/"
+  },
+  {
+    "key": 16,
+    "title": "Weather APP Flask",
+    "imageSrc": "https://i.ytimg.com/vi/lWA0GgUN8kg/maxresdefault.jpg",
+    "description": "This is a project made with complete Python, Flask",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Weather_Flask",
+    "deploy":"https://weather-flask-kbv1.onrender.com/"
   }
 ]
