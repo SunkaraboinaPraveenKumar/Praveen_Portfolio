@@ -135,6 +135,15 @@
     "deploy":"https://summarization-nlp-1.onrender.com/"
   },
   {
+    "key": 15,
+    "title": "AI Image Generator",
+    "imageSrc": "https://th.bing.com/th/id/OIP.fcDMFzHVI8hoYTCcsqgZhQAAAA?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete Python, Flask and Hugging Face API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Image_Ai_FrontEnd",
+    "deploy":"https://image-ai-front-end.vercel.app/"
+  },
+  {
     "key": 16,
     "title": "Weather APP Flask",
     "imageSrc": "https://i.ytimg.com/vi/lWA0GgUN8kg/maxresdefault.jpg",
