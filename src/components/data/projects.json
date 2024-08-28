@@ -145,6 +145,24 @@
   },
   {
     "key": 16,
+    "title": "",
+    "imageSrc": "https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg",
+    "description": "This is a project made with complete NodeJS,React,Socket IO",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Chat-Application-using-Socket-io.",
+    "deploy":"https://chat-application-using-socket-io-six.vercel.app/"
+  },
+  {
+    "key": 17,
+    "title": "Travel Advisor App",
+    "imageSrc": "https://th.bing.com/th/id/OIP.Qmdi4ktxWuH5cQJRT7FThgHaFj?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete React, Google Maps API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Travel_Advisor_maps",
+    "deploy":"https://travel-advisor-maps-3nhc.vercel.app/"
+  },
+  {
+    "key": 18,
     "title": "Weather APP Flask",
     "imageSrc": "https://i.ytimg.com/vi/lWA0GgUN8kg/maxresdefault.jpg",
     "description": "This is a project made with complete Python, Flask",
