@@ -169,5 +169,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Weather_Flask",
     "deploy":"https://weather-flask-kbv1.onrender.com/"
+  },
+  {
+    "key": 19,
+    "title": "Human Emotion Prediction",
+    "imageSrc": "https://thumbs.dreamstime.com/z/human-emotion-mind-map-positive-negative-emotions-flowchart-concept-marker-198039414.jpg",
+    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Human_Emotion_Pred",
+    "deploy":"https://sunkaraboinapraveenkumar-human-emotion-pred-main-oui01s.streamlit.app/"
   }
 ]
