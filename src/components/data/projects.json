@@ -42,7 +42,7 @@
     "description": "This is a project made with complete Node Js and Gemini API Responses",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/MERN_CHAT_BACKEND",
-    "deploy":"https://mern-chat-backend-5.onrender.com"
+    "deploy":"https://mern-chat-backend-5.onrender.com/api/v1/user"
   },
   {
     "key": 6,
@@ -105,7 +105,7 @@
     "description": "This is a project made with complete HTML and JavaScript",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Coffee--Store-Website",
-    "deploy":"https://coffee-store-website-tjhn.vercel.app/"
+    "deploy":"https://sunkaraboinapraveenkumar.github.io/Coffee--Store-Website/"
   },
   {
     "key": 13,

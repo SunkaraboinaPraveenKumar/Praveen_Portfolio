@@ -43,10 +43,10 @@ const Projects = () => {
                       Demo
                     </a> */}
                     <div className="d-flex align-items-center justify-content-between">
-                      <a href={data.source} className="btn btn-warning">
+                      <a href={data.source} className="btn btn-warning" target="_blank">
                         Source Code
                       </a>
-                      <a href={data.deploy} className="btn btn-primary">
+                      <a href={data.deploy} className="btn btn-primary" target="_blank">
                         Deployed Link
                       </a>
                     </div>
