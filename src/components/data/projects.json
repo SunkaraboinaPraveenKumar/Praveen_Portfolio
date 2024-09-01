@@ -172,6 +172,15 @@
   },
   {
     "key": 20,
+    "title": "AI Travel Planner App",
+    "imageSrc": "https://hcti.io/v1/image/f5fd4204-2c41-4c88-80a3-d9ec6d03d0ba.webp",
+    "description": "This is a project made with complete React, Google Maps API, Gemini AI",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Trip_Planner",
+    "deploy":"https://ai-trip-planner-phi.vercel.app/"
+  },
+  {
+    "key": 21,
     "title": "Weather APP Flask",
     "imageSrc": "https://i.ytimg.com/vi/lWA0GgUN8kg/maxresdefault.jpg",
     "description": "This is a project made with complete Python, Flask",
@@ -180,12 +189,21 @@
     "deploy":"https://weather-flask-kbv1.onrender.com/"
   },
   {
-    "key": 21,
+    "key": 22,
     "title": "Human Emotion Prediction",
     "imageSrc": "https://thumbs.dreamstime.com/z/human-emotion-mind-map-positive-negative-emotions-flowchart-concept-marker-198039414.jpg",
     "description": "This is a project made with complete Python, Streamlit,Colab",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Human_Emotion_Pred",
     "deploy":"https://sunkaraboinapraveenkumar-human-emotion-pred-main-oui01s.streamlit.app/"
+  },
+  {
+    "key": 23,
+    "title": "MCQs Generator",
+    "imageSrc": "https://th.bing.com/th/id/OIP.JyTwTmoVQxs5ONkwkqIJqAHaD_?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/MCQs-Generator-App",
+    "deploy":"https://mcqs-generator-app-1.onrender.com/"
   }
 ]
