@@ -205,5 +205,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/MCQs-Generator-App",
     "deploy":"https://mcqs-generator-app-1.onrender.com/"
+  },
+  {
+    "key": 24,
+    "title": "AI Content Generation",
+    "imageSrc": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/319352384/original/81eac8731e0eda0e44cc3a4ed7f5929745acfec5/create-ai-content-generation-app-using-chatgpt-and-openai-models.png",
+    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Content_Gen",
+    "deploy":"https://ai-content-gen-cv6a.vercel.app/"
   }
 ]
