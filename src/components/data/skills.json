@@ -28,12 +28,16 @@
     "imageSrc": "skills/javascript.png"
   },
   {
-    "title": "React",
+    "title": "React JS(Front End)",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Node JS(Back End)",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Next Js",
+    "imageSrc": "skills/nextjs.jpeg"
   },
   {
     "title":"Firebase",
@@ -56,11 +60,15 @@
     "imageSrc": "skills/geeks.png"
   },
   {
-    "title": "Machine Learning",
+    "title": "AIML",
     "imageSrc": "skills/machine.jpeg"
   },
   {
     "title": "Kotlin-App Development",
     "imageSrc": "skills/kotlin.jpeg"
+  },
+  {
+    "title": "Natural Language Processing(NLP)",
+    "imageSrc": "skills/nlp.jpeg"
   }
 ]
