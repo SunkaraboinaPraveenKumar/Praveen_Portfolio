@@ -224,4 +224,14 @@
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Course_Gen",
     "deploy":"https://ai-course-gen-prav.vercel.app/"
   }
+  ,
+  {
+    "key": 26,
+    "title": "Find_Player_App",
+    "imageSrc": "https://cdn.create.vista.com/downloads/a20b350a-5051-42a5-aa49-bf44e69a34c4_1024.jpeg",
+    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Find_Player_App",
+    "deploy":"https://find-player-app.vercel.app/"
+  }
 ]
