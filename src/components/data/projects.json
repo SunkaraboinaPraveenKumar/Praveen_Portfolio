@@ -210,7 +210,7 @@
     "key": 24,
     "title": "AI Content Generation",
     "imageSrc": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/319352384/original/81eac8731e0eda0e44cc3a4ed7f5929745acfec5/create-ai-content-generation-app-using-chatgpt-and-openai-models.png",
-    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "description": "This is a project made with complete Next Js, PostgreSQL",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Content_Gen",
     "deploy":"https://ai-content-gen-cv6a.vercel.app/"
@@ -219,7 +219,7 @@
     "key": 25,
     "title": "AI Course Generation",
     "imageSrc": "https://th.bing.com/th/id/OIP.P9MybXTwWiPrnuQ4mlEHrwHaEK?rs=1&pid=ImgDetMain",
-    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "description": "This is a project made with complete Next Js, PostgreSQL",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Course_Gen",
     "deploy":"https://ai-course-gen-prav.vercel.app/"
@@ -229,7 +229,7 @@
     "key": 26,
     "title": "Find_Player_App",
     "imageSrc": "https://cdn.create.vista.com/downloads/a20b350a-5051-42a5-aa49-bf44e69a34c4_1024.jpeg",
-    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "description": "This is a project made with complete React Js, MongoDB, Firebase",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Find_Player_App",
     "deploy":"https://find-player-app.vercel.app/"
@@ -239,9 +239,29 @@
     "key": 27,
     "title": "Kids_Story_GenAI",
     "imageSrc": "https://th.bing.com/th/id/OIP.fX_bgW9zJPeEsAZxgApQKQHaEd?rs=1&pid=ImgDetMain",
-    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "description": "This is a project made with complete Next Js, PostgreSQL",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Kids_Story_Gen_AI",
     "deploy":"https://kids-story-gen-ai.vercel.app/"
+  }
+  ,
+  {
+    "key": 28,
+    "title": "Voice_Bot",
+    "imageSrc": "https://th.bing.com/th/id/OIP.UHp0cKDlGn5C3UwSZx02zAHaGC?w=1024&h=835&rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete Python, Flask,Colab",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Speech-recognition_ai",
+    "deploy":"https://speech-recognition-ai.onrender.com/"
+  }
+  ,
+  {
+    "key": 29,
+    "title": "Ai_Mock_Interview_Gen",
+    "imageSrc": "https://as1.ftcdn.net/v2/jpg/05/88/10/28/1000_F_588102895_AxkhLTjt3pQasSnaH3oxKyhpJIC7d0ib.jpg",
+    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Ai_Interview_App",
+    "deploy":"https://ai-interview-app-brown.vercel.app/"
   }
 ]
