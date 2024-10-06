@@ -259,9 +259,27 @@
     "key": 29,
     "title": "Ai_Mock_Interview_Gen",
     "imageSrc": "https://as1.ftcdn.net/v2/jpg/05/88/10/28/1000_F_588102895_AxkhLTjt3pQasSnaH3oxKyhpJIC7d0ib.jpg",
-    "description": "This is a project made with complete Python, Streamlit,Colab",
+    "description": "This is a project made with complete Next Js, PostgreSQL,Clerk",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Ai_Interview_App",
     "deploy":"https://ai-interview-app-brown.vercel.app/"
+  },
+  {
+    "key": 30,
+    "title": "Ai_Video_Gen",
+    "imageSrc": "https://assets-global.website-files.com/59e16042ec229e00016d3a66/6441d5f76d21e1e4dee9ffa2_Gen%20AI%20blog_Blog%20hero.png",
+    "description": "This is a project made with complete Next Js, PostgreSQL, Clerk",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Ai_Video_gen",
+    "deploy":"https://ai-video-gen.vercel.app/"
+  },
+  {
+    "key": 29,
+    "title": "Student Attendance Tracker",
+    "imageSrc": "https://play-lh.googleusercontent.com/9dDlJwatsEqSA7-0JP8L_ArgDZ1lUh5jscRiNgXY-K2c5QJiX4xXmXxX5IBT0nv_ZvA",
+    "description": "This is a project made with complete Next Js, PostgreSQL, Clerk",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Student_Attendance_Tracker",
+    "deploy":"https://student-attendance-tracker-rfvm.vercel.app/"
   }
 ]
