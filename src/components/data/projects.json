@@ -74,7 +74,7 @@
   {
     "key": 9,
     "title": "MERN Book Store FrontEnd",
-    "imageSrc": "https://th.bing.com/th/id/OIP.6e8LMdXKveiMKJRdSe4SQwHaE8?rs=1&pid=ImgDetMain",
+    "imageSrc": "https://th.bing.com/th/id/OIP.RrtZUMlVUmaxEqoEqEEu8QHaET?rs=1&pid=ImgDetMain",
     "description": "This is a project made with complete React JS",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-bookStore-fronend",
@@ -209,7 +209,7 @@
   {
     "key": 24,
     "title": "AI Content Generation",
-    "imageSrc": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/319352384/original/81eac8731e0eda0e44cc3a4ed7f5929745acfec5/create-ai-content-generation-app-using-chatgpt-and-openai-models.png",
+    "imageSrc": "https://th.bing.com/th/id/OIP.4YFb-f1kFbGTzCQfF4We3QHaEK?rs=1&pid=ImgDetMain",
     "description": "This is a project made with complete Next Js, PostgreSQL",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Content_Gen",
@@ -274,12 +274,21 @@
     "deploy":"https://ai-video-gen.vercel.app/"
   },
   {
-    "key": 29,
+    "key": 31,
     "title": "Student Attendance Tracker",
     "imageSrc": "https://play-lh.googleusercontent.com/9dDlJwatsEqSA7-0JP8L_ArgDZ1lUh5jscRiNgXY-K2c5QJiX4xXmXxX5IBT0nv_ZvA",
     "description": "This is a project made with complete Next Js, PostgreSQL, Clerk",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Student_Attendance_Tracker",
     "deploy":"https://student-attendance-tracker-rfvm.vercel.app/"
+  },
+  {
+    "key": 32,
+    "title": "Uber_Travel_Clone",
+    "imageSrc": "https://i.pinimg.com/originals/38/d7/6a/38d76a2a598eb9f034a46603f76cfa2d.jpg",
+    "description": "This is a project made with complete Next Js, PostgreSQL, Clerk",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Travel_Uber_Clone",
+    "deploy":"https://travel-uber-clone.vercel.app/"
   }
 ]
