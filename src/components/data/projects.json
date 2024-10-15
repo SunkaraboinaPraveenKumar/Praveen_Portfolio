@@ -286,9 +286,18 @@
     "key": 32,
     "title": "Uber_Travel_Clone",
     "imageSrc": "https://i.pinimg.com/originals/38/d7/6a/38d76a2a598eb9f034a46603f76cfa2d.jpg",
-    "description": "This is a project made with complete Next Js, PostgreSQL, Clerk",
+    "description": "This is a project made with complete Next Js, PostgreSQL, Clerk, Google Maps API",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Travel_Uber_Clone",
     "deploy":"https://travel-uber-clone.vercel.app/"
+  },
+  {
+    "key": 32,
+    "title": "Real_Estate_App",
+    "imageSrc": "https://cdn2.vectorstock.com/i/1000x1000/97/66/real-estate-vector-4389766.jpg",
+    "description": "This is a project made with complete Next Js, Supabase, Clerk",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Real_Estate_App",
+    "deploy":"https://real-estate-app-zeta-five.vercel.app/"
   }
 ]
