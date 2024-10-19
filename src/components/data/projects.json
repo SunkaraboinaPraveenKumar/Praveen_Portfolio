@@ -147,7 +147,7 @@
     "key": 17,
     "title": "AI Image Generator",
     "imageSrc": "https://th.bing.com/th/id/OIP.fcDMFzHVI8hoYTCcsqgZhQAAAA?rs=1&pid=ImgDetMain",
-    "description": "This is a project made with complete Python, Flask and Hugging Face API",
+    "description": "This is a project made with complete React, Firebase, MongoDB and Hugging Face Model",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Image_Ai_FrontEnd",
     "deploy":"https://image-ai-front-end.vercel.app/"
