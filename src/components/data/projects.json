@@ -292,7 +292,7 @@
     "deploy":"https://travel-uber-clone.vercel.app/"
   },
   {
-    "key": 32,
+    "key": 33,
     "title": "Real_Estate_App",
     "imageSrc": "https://cdn2.vectorstock.com/i/1000x1000/97/66/real-estate-vector-4389766.jpg",
     "description": "This is a project made with complete Next Js, Supabase, Clerk",
@@ -301,12 +301,21 @@
     "deploy":"https://real-estate-app-zeta-five.vercel.app/"
   },
   {
-    "key": 33,
+    "key": 34,
     "title": "AI_Room_Designer",
     "imageSrc": "https://th.bing.com/th/id/OIP.7TRdFseNIVM21zlAT8rRNQHaD4?rs=1&pid=ImgDetMain",
     "description": "This is a project made with complete Next Js, Firebase, Clerk, Neon(PostgreSQL)",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Room_Design",
     "deploy":"https://ai-room-designprav.vercel.app/"
+  },
+  {
+    "key": 35,
+    "title": "Meeting Scheduler",
+    "imageSrc": "https://sixthsenseit.com/webroot/upload/admin/apps/post_img/2020-02-27_post_image_1582792257.png",
+    "description": "This is a project made with complete Next Js, Firebase, Clerk",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Meeting_Scheduler_NextJs",
+    "deploy":"https://meeting-scheduler-next-js.vercel.app/"
   }
 ]
