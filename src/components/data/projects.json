@@ -317,5 +317,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Meeting_Scheduler_NextJs",
     "deploy":"https://meeting-scheduler-next-js.vercel.app/"
+  },
+  {
+    "key": 36,
+    "title": "AI_PDF_Notes_Taker",
+    "imageSrc": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/34_Ai_Illustrator_Adobe_logo_logos-1024.png",
+    "description": "This is a project made with complete Next Js, Convex Vector Database, Clerk Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Pdf_Notes_Taker",
+    "deploy":"https://ai-pdf-notes-taker.vercel.app/"
   }
 ]
