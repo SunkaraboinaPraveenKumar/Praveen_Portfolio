@@ -6,7 +6,7 @@
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AdvancedEcommerce",
-    "deploy":"https://advanced-ecommerce-five.vercel.app/"
+    "deploy": "https://advanced-ecommerce-five.vercel.app/"
   },
   {
     "key": 2,
@@ -15,7 +15,7 @@
     "description": "This is a project made with complete React js and FireBase and Node JS",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/SocialMedia_React_App",
-    "deploy":"https://social-media-react-app-mu.vercel.app/"
+    "deploy": "https://social-media-react-app-mu.vercel.app/"
   },
   {
     "key": 3,
@@ -24,7 +24,7 @@
     "description": "This is a project made with Python and Deployed with Streamlit",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/First_ChatBot",
-    "deploy":"https://firstchatbot-4utnvnkfr3hotxrxc2erhg.streamlit.app/"
+    "deploy": "https://firstchatbot-4utnvnkfr3hotxrxc2erhg.streamlit.app/"
   },
   {
     "key": 4,
@@ -33,7 +33,7 @@
     "description": "This is a project made with complete React js and Material UI",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/MENR_CHAT_FROnt",
-    "deploy":"https://menr-chat-fr-ont.vercel.app/"
+    "deploy": "https://menr-chat-fr-ont.vercel.app/"
   },
   {
     "key": 5,
@@ -42,7 +42,7 @@
     "description": "This is a project made with complete Node Js and Gemini API Responses",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/MERN_CHAT_BACKEND",
-    "deploy":"https://mern-chat-backend-5.onrender.com/api/v1/user"
+    "deploy": "https://mern-chat-backend-5.onrender.com/api/v1/user"
   },
   {
     "key": 6,
@@ -51,7 +51,7 @@
     "description": "This is a project made with complete Python,Google Colab",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Machine_Learning_Projects",
-    "deploy":"https://ml-projects-six.vercel.app/"
+    "deploy": "https://ml-projects-six.vercel.app/"
   },
   {
     "key": 7,
@@ -60,7 +60,7 @@
     "description": "This is a project made with complete JavaScript Neural Networks",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Self-Driving-Car",
-    "deploy":"https://self-driving-car-rouge.vercel.app/"
+    "deploy": "https://self-driving-car-rouge.vercel.app/"
   },
   {
     "key": 8,
@@ -69,7 +69,7 @@
     "description": "This is a project made with complete Kotlin,Fire Base",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Expense_Tracker_Paas",
-    "deploy":""
+    "deploy": ""
   },
   {
     "key": 9,
@@ -78,7 +78,7 @@
     "description": "This is a project made with complete React JS",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-bookStore-fronend",
-    "deploy":"https://mern-book-store-fronend.vercel.app/"
+    "deploy": "https://mern-book-store-fronend.vercel.app/"
   },
   {
     "key": 10,
@@ -87,7 +87,7 @@
     "description": "This is a project made with complete Node JS,Express,MongoDB",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-Book-Store-BackEnd",
-    "deploy":"https://mern-book-store-backend-1.onrender.com"
+    "deploy": "https://mern-book-store-backend-1.onrender.com"
   },
   {
     "key": 11,
@@ -96,7 +96,7 @@
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/GPT3Website-React",
-    "deploy":"https://coffee-store-website-tjhn.vercel.app/"
+    "deploy": "https://coffee-store-website-tjhn.vercel.app/"
   },
   {
     "key": 12,
@@ -105,7 +105,7 @@
     "description": "This is a project made with complete HTML and JavaScript",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Coffee--Store-Website",
-    "deploy":"https://sunkaraboinapraveenkumar.github.io/Coffee--Store-Website/"
+    "deploy": "https://sunkaraboinapraveenkumar.github.io/Coffee--Store-Website/"
   },
   {
     "key": 13,
@@ -114,7 +114,7 @@
     "description": "This is a project made with complete React Js, Node JS, MongoDB.",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Job_Portal_frontend",
-    "deploy":"https://job-portal-frontend-ecru.vercel.app/"
+    "deploy": "https://job-portal-frontend-ecru.vercel.app/"
   },
   {
     "key": 14,
@@ -123,7 +123,7 @@
     "description": "This is a project made with complete JavaScript, HTML, CSS",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Dijktras_Shortest_Path_Vis_JS",
-    "deploy":"https://dijktras-shortest-path-vis-js.vercel.app/"
+    "deploy": "https://dijktras-shortest-path-vis-js.vercel.app/"
   },
   {
     "key": 15,
@@ -132,7 +132,7 @@
     "description": "This is a project made with complete JavaScript, HTML, CSS",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Huffman_Decoding_Encoding",
-    "deploy":"https://huffman-decoding-encoding.vercel.app/"
+    "deploy": "https://huffman-decoding-encoding.vercel.app/"
   },
   {
     "key": 16,
@@ -141,7 +141,7 @@
     "description": "This is a project made with complete Python, Flask and NLP",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Summarization_NLP",
-    "deploy":"https://summarization-nlp-1.onrender.com/"
+    "deploy": "https://summarization-nlp-1.onrender.com/"
   },
   {
     "key": 17,
@@ -150,7 +150,7 @@
     "description": "This is a project made with complete React, Firebase, MongoDB and Hugging Face Model",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Image_Ai_FrontEnd",
-    "deploy":"https://image-ai-front-end.vercel.app/"
+    "deploy": "https://image-ai-front-end.vercel.app/"
   },
   {
     "key": 18,
@@ -159,7 +159,7 @@
     "description": "This is a project made with complete NodeJS,React,Socket IO",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Chat-Application-using-Socket-io.",
-    "deploy":"https://chat-application-using-socket-io-six.vercel.app/"
+    "deploy": "https://chat-application-using-socket-io-six.vercel.app/"
   },
   {
     "key": 19,
@@ -168,7 +168,7 @@
     "description": "This is a project made with complete React, Google Maps API",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Travel_Advisor_maps",
-    "deploy":"https://travel-advisor-maps-3nhc.vercel.app/"
+    "deploy": "https://travel-advisor-maps-3nhc.vercel.app/"
   },
   {
     "key": 20,
@@ -177,7 +177,7 @@
     "description": "This is a project made with complete React, Google Maps API, Gemini AI",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Trip_Planner",
-    "deploy":"https://ai-trip-planner-phi.vercel.app/"
+    "deploy": "https://ai-trip-planner-phi.vercel.app/"
   },
   {
     "key": 21,
@@ -186,7 +186,7 @@
     "description": "This is a project made with complete Python, Flask",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Weather_Flask",
-    "deploy":"https://weather-flask-kbv1.onrender.com/"
+    "deploy": "https://weather-flask-kbv1.onrender.com/"
   },
   {
     "key": 22,
@@ -195,7 +195,7 @@
     "description": "This is a project made with complete Python, Streamlit,Colab",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Human_Emotion_Pred",
-    "deploy":"https://sunkaraboinapraveenkumar-human-emotion-pred-main-oui01s.streamlit.app/"
+    "deploy": "https://sunkaraboinapraveenkumar-human-emotion-pred-main-oui01s.streamlit.app/"
   },
   {
     "key": 23,
@@ -204,7 +204,7 @@
     "description": "This is a project made with complete Python, Streamlit,Colab",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/MCQs-Generator-App",
-    "deploy":"https://mcqs-generator-app-1.onrender.com/"
+    "deploy": "https://mcqs-generator-app-1.onrender.com/"
   },
   {
     "key": 24,
@@ -213,7 +213,7 @@
     "description": "This is a project made with complete Next Js, PostgreSQL",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Content_Gen",
-    "deploy":"https://ai-content-gen-cv6a.vercel.app/"
+    "deploy": "https://ai-content-gen-cv6a.vercel.app/"
   },
   {
     "key": 25,
@@ -222,9 +222,8 @@
     "description": "This is a project made with complete Next Js, PostgreSQL",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Course_Gen",
-    "deploy":"https://ai-course-gen-prav.vercel.app/"
-  }
-  ,
+    "deploy": "https://ai-course-gen-prav.vercel.app/"
+  },
   {
     "key": 26,
     "title": "Find_Player_App",
@@ -232,9 +231,8 @@
     "description": "This is a project made with complete React Js, MongoDB, Firebase",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Find_Player_App",
-    "deploy":"https://find-player-app.vercel.app/"
-  }
-  ,
+    "deploy": "https://find-player-app.vercel.app/"
+  },
   {
     "key": 27,
     "title": "Kids_Story_GenAI",
@@ -242,9 +240,8 @@
     "description": "This is a project made with complete Next Js, PostgreSQL",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Kids_Story_Gen_AI",
-    "deploy":"https://kids-story-gen-ai.vercel.app/"
-  }
-  ,
+    "deploy": "https://kids-story-gen-ai.vercel.app/"
+  },
   {
     "key": 28,
     "title": "Voice_Bot",
@@ -252,9 +249,8 @@
     "description": "This is a project made with complete Python, Flask,Colab",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Speech-recognition_ai",
-    "deploy":"https://speech-recognition-ai.onrender.com/"
-  }
-  ,
+    "deploy": "https://speech-recognition-ai.onrender.com/"
+  },
   {
     "key": 29,
     "title": "Ai_Mock_Interview_Gen",
@@ -262,7 +258,7 @@
     "description": "This is a project made with complete Next Js, PostgreSQL,Clerk",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Ai_Interview_App",
-    "deploy":"https://ai-interview-app-brown.vercel.app/"
+    "deploy": "https://ai-interview-app-brown.vercel.app/"
   },
   {
     "key": 30,
@@ -271,7 +267,7 @@
     "description": "This is a project made with complete Next Js, PostgreSQL, Clerk",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Ai_Video_gen",
-    "deploy":"https://ai-video-gen.vercel.app/"
+    "deploy": "https://ai-video-gen.vercel.app/"
   },
   {
     "key": 31,
@@ -280,7 +276,7 @@
     "description": "This is a project made with complete Next Js, PostgreSQL, Clerk",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Student_Attendance_Tracker",
-    "deploy":"https://student-attendance-tracker-rfvm.vercel.app/"
+    "deploy": "https://student-attendance-tracker-rfvm.vercel.app/"
   },
   {
     "key": 32,
@@ -289,7 +285,7 @@
     "description": "This is a project made with complete Next Js, PostgreSQL, Clerk, Google Maps API",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Travel_Uber_Clone",
-    "deploy":"https://travel-uber-clone.vercel.app/"
+    "deploy": "https://travel-uber-clone.vercel.app/"
   },
   {
     "key": 33,
@@ -298,7 +294,7 @@
     "description": "This is a project made with complete Next Js, Supabase, Clerk",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Real_Estate_App",
-    "deploy":"https://real-estate-app-zeta-five.vercel.app/"
+    "deploy": "https://real-estate-app-zeta-five.vercel.app/"
   },
   {
     "key": 34,
@@ -307,7 +303,7 @@
     "description": "This is a project made with complete Next Js, Firebase, Clerk, Neon(PostgreSQL)",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Room_Design",
-    "deploy":"https://ai-room-designprav.vercel.app/"
+    "deploy": "https://ai-room-designprav.vercel.app/"
   },
   {
     "key": 35,
@@ -316,7 +312,7 @@
     "description": "This is a project made with complete Next Js, Firebase, Clerk",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Meeting_Scheduler_NextJs",
-    "deploy":"https://meeting-scheduler-next-js.vercel.app/"
+    "deploy": "https://meeting-scheduler-next-js.vercel.app/"
   },
   {
     "key": 36,
@@ -325,6 +321,6 @@
     "description": "This is a project made with complete Next Js, Convex Vector Database, Clerk Authentication",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Pdf_Notes_Taker",
-    "deploy":"https://ai-pdf-notes-taker.vercel.app/"
+    "deploy": "https://ai-pdf-notes-taker.vercel.app/"
   }
 ]
