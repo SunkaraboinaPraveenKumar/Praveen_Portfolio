@@ -322,5 +322,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Pdf_Notes_Taker",
     "deploy": "https://ai-pdf-notes-taker.vercel.app/"
+  },
+  {
+    "key": 37,
+    "title": "Web Dev Chatbot",
+    "imageSrc": "https://communitykeeper-media.s3.amazonaws.com/media/rag-social1.png",
+    "description": "This is a project made with complete Python Flask,Llama with Groq, AstraDb Vector DB",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/WEB_DEV_RAG_GEMINI",
+    "deploy": "https://web-dev-rag-gemini-8hbgjkzi8-praveen-kumars-projects-663db999.vercel.app/"
   }
 ]
