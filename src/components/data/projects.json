@@ -99,6 +99,15 @@
     "deploy": "https://coffee-store-website-tjhn.vercel.app/"
   },
   {
+    "key": 38,
+    "title": "Link Preview Generator",
+    "imageSrc": "https://website-cdn.studysmarter.de/2023/04/StudySmarter-AI_Press-Release_Graphic-V1.png",
+    "description": "This is a project made with complete React Vite, Node Js, Web Scraping",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Simple_Link_Preview_Gen",
+    "deploy": "https://simple-link-preview-gen.vercel.app/"
+  },
+  {
     "key": 12,
     "title": "Coffee Store Website",
     "imageSrc": "https://th.bing.com/th/id/OIP.NutZKB1AAQ3bIshKzEjAuAHaEl?w=271&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
@@ -334,7 +343,7 @@
   }
   ,
   {
-    "key": 38,
+    "key": 40,
     "title": "AI Study App",
     "imageSrc": "https://website-cdn.studysmarter.de/2023/04/StudySmarter-AI_Press-Release_Graphic-V1.png",
     "description": "This is a project made with complete Next JS,Inngest , PostGreSQL Neon DB, Clerk Authentication",
