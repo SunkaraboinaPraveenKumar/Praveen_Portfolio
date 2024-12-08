@@ -359,5 +359,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/React_AI_Resume_Builder",
     "deploy": "https://react-ai-resume-builder-praveen.vercel.app/"
+  },
+  {
+    "key": 42,
+    "title": "Digi_Ecommerce_Praveen",
+    "imageSrc": "https://deepdigiecommerce.com/wp-content/uploads/2023/04/Deep-Digi-Ecommerce-Logo.png",
+    "description": "This is a project made with complete React JS,PostGreSQL Neon DB, Clerk Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Digi_Ecommerce_Store_Prav",
+    "deploy": "https://digi-ecommerce-store-prav.vercel.app/"
   }
 ]
