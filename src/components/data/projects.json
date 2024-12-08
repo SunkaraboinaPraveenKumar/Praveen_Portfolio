@@ -350,5 +350,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_LMS_APP",
     "deploy": "https://ai-study-app-ruddy.vercel.app/"
+  },
+  {
+    "key": 41,
+    "title": "AI Resume Builder",
+    "imageSrc": "https://images.appypie.com/wp-content/uploads/2023/02/24071143/Popular-AI-Resume-Website-Builders.png",
+    "description": "This is a project made with complete React JS,PostGreSQL Neon DB, Clerk Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/React_AI_Resume_Builder",
+    "deploy": "https://react-ai-resume-builder-praveen.vercel.app/"
   }
 ]
