@@ -368,5 +368,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Digi_Ecommerce_Store_Prav",
     "deploy": "https://digi-ecommerce-store-prav.vercel.app/"
+  },
+  {
+    "key": 43,
+    "title": "Ecomm_Web_Scraper",
+    "imageSrc": "https://blog-images.webscraper.io/images/RDUD7eLl4kzTSwESZiycUJmExDT27lMHiyfdcciK.png",
+    "description": "This is a project made with complete Next JS,Mongo DB, Clerk Authentication, Bright Data",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Ecommerce_Web_Scraper",
+    "deploy": "https://ecommerce-web-scraper-praveen.vercel.app/"
   }
 ]
