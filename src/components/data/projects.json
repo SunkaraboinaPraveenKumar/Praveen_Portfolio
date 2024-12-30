@@ -377,5 +377,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Ecommerce_Web_Scraper",
     "deploy": "https://ecommerce-web-scraper-praveen.vercel.app/"
+  },
+  {
+    "key": 43,
+    "title": "ChatBot_Scratch_Prav",
+    "imageSrc": "https://i.pinimg.com/736x/3a/5e/e8/3a5ee822b367eb0d36d1257654d11494.jpg",
+    "description": "This is a project made with complete Next JS,Neon DB, Clerk Authentication, Hugging Face models",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Chatbot_Praveen_Scratch",
+    "deploy": "https://chatbot-praveen-scratch.vercel.app/"
   }
 ]
