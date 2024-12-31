@@ -393,8 +393,8 @@
     "imageSrc": "https://i.ytimg.com/vi/1lm4Wlpy2wU/maxresdefault.jpg",
     "description": "This is a project made with complete Streamlit, Gemini API, Langchain, Youtube Trancript API.",
     "demo": "https://www.example.com",
-    "source": "https://github.com/SunkaraboinaPraveenKumar/Ecommerce_Web_Scraper",
-    "deploy": "https://ecommerce-web-scraper-praveen.vercel.app/"
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Gemini_YT_Transcript",
+    "deploy": "https://sunkaraboinapraveenkumar-gemini-yt-transcript-app-dbgaoh.streamlit.app/"
   },
   {
     "key": 46,
