@@ -404,5 +404,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Chatbot_Praveen_Scratch",
     "deploy": "https://chatbot-praveen-scratch.vercel.app/"
+  },
+  {
+    "key": 47,
+    "title": "ChatBot_Youtube_Transcript",
+    "imageSrc": "https://manometcurrent.com/wp-content/uploads/2023/09/YouTube-Video-Transcription-780x470.jpg",
+    "description": "This is a project made with complete Next JS,Neon DB, Clerk Authentication, Youtube Transcript API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Youtube_Video_Transcript_Bot",
+    "deploy": "https://youtube-video-transcript-bot.vercel.app/"
   }
 ]
