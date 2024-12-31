@@ -379,7 +379,25 @@
     "deploy": "https://ecommerce-web-scraper-praveen.vercel.app/"
   },
   {
-    "key": 43,
+    "key": 44,
+    "title": "AI Video Editor",
+    "imageSrc": "https://bendigoaerial.com.au/wp-content/uploads/2023/03/Pictory-Text-Video-Editor-1200x675.jpg",
+    "description": "This is a project made with complete Next JS, Neon PostGreSQL, Clerk Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_-Scratch_Video_Editor",
+    "deploy": "https://ai-scratch-video-editor.vercel.app/"
+  },
+  {
+    "key": 45,
+    "title": "Youtube Video Transcript",
+    "imageSrc": "https://i.ytimg.com/vi/1lm4Wlpy2wU/maxresdefault.jpg",
+    "description": "This is a project made with complete Streamlit, Gemini API, Langchain, Youtube Trancript API.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Ecommerce_Web_Scraper",
+    "deploy": "https://ecommerce-web-scraper-praveen.vercel.app/"
+  },
+  {
+    "key": 46,
     "title": "ChatBot_Scratch_Prav",
     "imageSrc": "https://i.pinimg.com/736x/3a/5e/e8/3a5ee822b367eb0d36d1257654d11494.jpg",
     "description": "This is a project made with complete Next JS,Neon DB, Clerk Authentication, Hugging Face models",
