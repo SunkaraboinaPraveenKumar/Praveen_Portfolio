@@ -413,5 +413,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Youtube_Video_Transcript_Bot",
     "deploy": "https://youtube-video-transcript-bot.vercel.app/"
+  },
+  {
+    "key": 48,
+    "title": "AI Logo Creator",
+    "imageSrc": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/15/bf/5b/15bf5ba1-27c9-0c8c-2ae4-a81264746410/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/1200x630wa.png",
+    "description": "This is a project made with complete Next JS, Fire base, Clerk Authentication, Hugging Face API",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Logo_Generator",
+    "deploy": "https://ai-logo-generator-praveen.vercel.app/"
   }
 ]
