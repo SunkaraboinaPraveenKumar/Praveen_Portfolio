@@ -431,5 +431,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Voice_Bot_Groq_web",
     "deploy": "https://voice-bot-groq-web.vercel.app/"
+  },
+  {
+    "key": 50,
+    "title": "AI Email Template Gen",
+    "imageSrc": "https://media-hosting.imagekit.io//bf02a98fd3c24bb2/logo.png?Expires=1832405318&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=baOrvCNj-mN6I28CPJNktnnVFPNrZwyUNxiRL5cARFMc5jHGAlKivTZLatX5FuCzhfrC29XzHK5egu4u8R6NUGY7rc4SZpHiWCy4g75ZkOiBphJhDk04BMh2k9-qNO-MFGryHnAFL5d25PcqTOQbMmtSQKrJX4TMqdhGUpciM6uQHSNVV3P0dK199-A-pUkEg3uIE1hLWX75AYxtbmFxt3R74~7wHoyKIuGAE20kWWQKFVwnkaC1OPZfw3jM9psaWKQSR-4BpH12PYm2-GqNegEd7qfZujywzf-MdfZI7eUvCNrbuOhh2zKp6c5JJU5m0fCmyUEre9stoom7bVS7ag__",
+    "description": "This is a project made with complete Next JS, Convex DB, React OAuth Authentication",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Email_Template_Gen",
+    "deploy": "https://ai-email-template-gen-praveen.vercel.app/"
   }
 ]
