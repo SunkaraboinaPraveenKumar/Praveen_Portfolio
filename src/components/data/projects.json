@@ -440,5 +440,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/AI_Email_Template_Gen",
     "deploy": "https://ai-email-template-gen-praveen.vercel.app/"
+  },
+  {
+    "key": 51,
+    "title": "WireFrame to Code",
+    "imageSrc": "https://static.vecteezy.com/system/resources/thumbnails/001/335/297/small_2x/ux-ui-wireframe-concept-free-vector.jpg",
+    "description": "This is a project made with complete Next JS, Firebase Auth and Storage, PostGreSQL DB",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Wireframe_to_code",
+    "deploy": "https://wireframe-to-code-praveen.vercel.app/"
   }
 ]
