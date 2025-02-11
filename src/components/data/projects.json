@@ -449,5 +449,14 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Wireframe_to_code",
     "deploy": "https://wireframe-to-code-praveen.vercel.app/"
+  },
+  {
+    "key": 52,
+    "title": "Task Master",
+    "imageSrc": "https://lh3.googleusercontent.com/4bZ6U2hgFs8oJ3Ph_vm27ljRfO78KHgiyjT6gZLiq8iCm0XFhqSYOPKdHUiTBK2KXEM",
+    "description": "This is a project made with complete Next JS, PostGreSQL DB",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Task_Master",
+    "deploy": "https://task-master-praveen.vercel.app/"
   }
 ]
