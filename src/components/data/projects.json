@@ -453,10 +453,19 @@
   {
     "key": 52,
     "title": "Task Master",
-    "imageSrc": "https://lh3.googleusercontent.com/4bZ6U2hgFs8oJ3Ph_vm27ljRfO78KHgiyjT6gZLiq8iCm0XFhqSYOPKdHUiTBK2KXEM",
+    "imageSrc": "https://www.cflowapps.com/wp-content/uploads/2018/07/task-management-process.png",
     "description": "This is a project made with complete Next JS, PostGreSQL DB",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/Task_Master",
     "deploy": "https://task-master-praveen.vercel.app/"
+  },
+  {
+    "key": 53,
+    "title": "AI YT Short Video Gen",
+    "imageSrc": "https://www.vidnoz.com/bimg/how-to-create-viral-shorts-with-youtube-shorts-automation-ai.webp",
+    "description": "This is a project made with complete Next JS, PostGreSQL DB, Convex DB, Inngest, Hugging Face.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/AI_YT_Short_Video_gen",
+    "deploy": "https://ai-yt-short-video-gen-praveen.vercel.app/"
   }
 ]
