@@ -12,9 +12,18 @@ a{
 }
 /* NavBar section */
 .nav_bar{
+  position: relative;
   display: flex;
-  justify-content: space-between;
+  flex-direction: row;
   align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0 12px;
+  min-height: 56px;
+  z-index: 1004;
 }
 .nav_bar .nav_items{
   padding: 16px;
@@ -171,11 +180,39 @@ a{
     width: 150px;
   }
 
+  .hamburger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: 0;
+    background: none;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+  }
   .nav_bar {
-    flex-direction: column;
-    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background: none;
+    border: none;
+    box-shadow: none;
+    padding: 0 12px;
+    min-height: 56px;
+  }
+  .nav_bar .left {
+    display: flex;
+    align-items: center;
+    flex: 0 1 auto;
   }
 
+  .nav_bar .right {
+    display: flex;
+    align-items: center;
+  }
   .nav_bar .nav_items {
     margin-left: 10px;
     font-size: 1rem;
@@ -221,6 +258,65 @@ a{
   }
   .contact-icon .items .icons {
     font-size: 1.5rem;
+  }
+
+  /* Hamburger hidden by default, only visible on mobile */
+  .nav_bar .right {
+    display: none !important;
+  }
+  .nav_dropdown.open {
+    display: flex !important;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100vw;
+    background: rgba(11,26,51,0.98);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+    z-index: 1003;
+    padding: 0 0 10px 0;
+    opacity: 1;
+    max-height: 400px;
+    overflow: visible;
+  }
+}
+
+/* On large screens, nav links are horizontal and always visible, hamburger hidden */
+@media screen and (min-width: 769px) {
+  .nav_bar {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    padding: 0 12px;
+    min-height: 56px;
+  }
+  .nav_bar .right {
+    display: flex !important;
+    flex-direction: row;
+    position: static;
+    background: none;
+    box-shadow: none;
+    width: auto;
+    opacity: 1;
+    max-height: none;
+    padding: 0;
+  }
+  .nav_dropdown {
+    display: flex !important;
+    flex-direction: row;
+    position: static;
+    background: none;
+    box-shadow: none;
+    width: auto;
+    opacity: 1;
+    max-height: none;
+    padding: 0;
+  }
+  .hamburger {
+    display: none !important;
   }
 }
 
@@ -300,5 +396,158 @@ a{
 @media screen and (max-width:1440px){
   .row{
     gap:30px;
+  }
+}
+
+/* --- Responsive Improvements for All Components --- */
+@media screen and (max-width: 600px) {
+  .container {
+    width: 100% !important;
+    padding: 0 5vw !important;
+    box-sizing: border-box;
+  }
+  .nav_bar {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 10px 0;
+  }
+  .nav_bar .right {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .nav_bar .nav_items {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 1rem;
+    border-bottom: 1px solid #333;
+  }
+  .home {
+    flex-direction: column;
+    height: auto;
+    padding: 20px 0;
+  }
+  .home .left, .home .right {
+    width: 100% !important;
+    margin: 0 0 20px 0 !important;
+    padding: 10px !important;
+  }
+  .home .right .img img {
+    width: 90vw !important;
+    max-width: 200px;
+    height: auto !important;
+  }
+  .skills, .ex, .projects {
+    width: 100% !important;
+    padding: 0 !important;
+  }
+  .skills .items {
+    flex-direction: column !important;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+  .skills .items .item {
+    width: 90% !important;
+    margin: 10px auto !important;
+    font-size: 1rem;
+    padding: 10px !important;
+  }
+  .ex-items {
+    flex-direction: column;
+    width: 95% !important;
+    padding: 10px !important;
+    margin: 10px auto !important;
+  }
+  .ex-items .left img {
+    width: 60vw !important;
+    max-width: 120px;
+    height: auto !important;
+  }
+  .projects .row {
+    flex-direction: column !important;
+    gap: 0 !important;
+  }
+  .projects .card {
+    width: 95vw !important;
+    margin: 10px auto !important;
+  }
+  .projects .img img {
+    width: 90vw !important;
+    max-width: 200px;
+    height: auto !important;
+  }
+  .contact-icon {
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto !important;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .contact-icon .items {
+    width: 40px !important;
+    height: 40px !important;
+    margin: 5px !important;
+  }
+  .contact-icon .items .icons {
+    font-size: 1.2rem !important;
+  }
+  h1, h2, h3, h4, h5 {
+    word-break: break-word;
+    font-size: 1.2rem !important;
+  }
+}
+
+/* Backdrop for mobile menu */
+.nav_backdrop {
+  display: none;
+}
+@media screen and (max-width: 768px) {
+  .nav_backdrop {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.3);
+    z-index: 999;
+    transition: opacity 0.3s;
+  }
+}
+
+/* Ensure touch targets for nav_items and hamburger */
+.nav_bar .nav_items {
+  min-height: 44px;
+  min-width: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* Home image centering fix */
+.home .right .img {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+.home .right .img img {
+  margin-left: 0 !important;
+}
+
+@media screen and (min-width: 768px) {
+  .navbar-nav .nav-link {
+    margin-left: 1.5rem;
+    color: #fff !important;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: color 0.2s;
+  }
+  .navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus {
+    color: #ffd700 !important;
   }
 }
